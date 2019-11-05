@@ -14,5 +14,5 @@ eli
 ## *Ennen koulutusta*
 <p>Koulutuksessa käytämme Anacondaa, jonka voi käydä asentamassa 
   <a href="https://www.anaconda.com/distribution/">täältä</a> (3.7 versio).
-  Käsiteltävät asiat on käyty läpi yo. Jupyter Notebook (`.pynb`) -tiedostoissa.
+  Käsiteltävät asiat on käyty läpi yo. Jupyter Notebook (<code>.pynb</code>) -tiedostoissa.
 </p>
