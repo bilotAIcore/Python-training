@@ -16,3 +16,14 @@ eli
   <a href="https://www.anaconda.com/distribution/">täältä</a> (3.7 versio).
   Käsiteltävät asiat on käyty läpi yo. Jupyter Notebook (<code>.ipynb</code>) -tiedostoissa.
 </p>
+
+## *Sisältö*
+<p>Tämä koulutus ei ole johdatus Python-ohjelmointiin yleensä, vaan siihen miten Pythonia 
+  käytetään datan analysointiin ja mallintamiseen. Koulutuksen sisältö noudataa 
+  seuraavaa rakennetta:</p>
+
+1. Datarakenteet ja tietotyypit  
+2. Dataoperaatiot, funktiot ja metodit  
+3. Visualisointi  
+4. Tilastollinen testaus  
+5. Edistynyt analytiikka
