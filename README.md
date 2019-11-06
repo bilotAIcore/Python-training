@@ -1,4 +1,7 @@
-<img src="py-logo.png" width="200pt"/>
+<img src="https://www.bilot.fi/wp-content/uploads/2018/06/bilot-logo.png" align="middle"/>
+<hr>
+
+<img src="py-logo.png" width="200pt" align="middle"/>
 
 # Python for Data Science
 eli
@@ -17,6 +20,10 @@ eli
   Käsiteltävät asiat on käyty läpi yo. Jupyter Notebook (<code>.ipynb</code>) -tiedostoissa.
 </p>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png" width="100pt">
+
+Jupyter Notebook on selaimella käytettävä ohjelmointityökalu, jolla voi Pythonin lisäksi ohjelmoida useilla eri kielillä, kuten R:llä tai Julialla (vaatii tarvittavien kerneleiden asentamisen). Monista muista kehitysympäristöistä poiketen Jupyter Notebook mahdollistaa tekstin, kuvan ja koodin yhdistämisen, joka on mahdollista myös R-Notebook formaatissa. Notebookin sisältö (esim. raportti) on helppo jakaa muille esim. HTML-, PDF- tai Markdown-muodossa. IPYNB-formaatissa olevaa Notebookkia voi myös katsella sellasenaan versionhallinnan verkkosivulle, kuten GitHubissa.
+
 ## *Sisältö*
 <p>Tämä koulutus ei ole johdatus Python-ohjelmointiin yleensä, vaan siihen miten Pythonia 
   käytetään datan analysointiin ja mallintamiseen. Koulutuksen sisältö noudataa 
@@ -27,3 +34,10 @@ eli
 3. Visualisointi  
 4. Tilastollinen testaus  
 5. Edistynyt analytiikka
+
+## *Lisätietoa*
+Alla muutamia verkkosivuja, joista löytää lisää tietoa aiheesta. Vastaavia sivuja on tarjolla valtavasti. Lisäksi, "Cheatsheets" -kansiosta löytyy pdf-tuedostoja, joissa on koottuna Python käskyjä eri tarpeisiin.
+
+- https://www.pythoncheatsheet.org/  
+- https://realpython.com/tutorials/data-science/  
+- https://www.datacamp.com/courses/intro-to-python-for-data-science  
