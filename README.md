@@ -22,7 +22,7 @@ eli
 ## *Ennen koulutusta*
 <p>Koulutuksessa käytämme Anacondaa, jonka voi käydä asentamassa 
   <a href="https://www.anaconda.com/distribution/">täältä</a> (3.7 versio).
-  Käsiteltävät asiat on käyty läpi yo. Jupyter Notebook (<code>.ipynb</code>) -tiedostoissa.
+  Käsiteltävät asiat on käyty läpi yo. Jupyter Notebook (<code>.ipynb</code>) -tiedostoissa (Chapters kansiossa).
 </p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png" width="100pt">
