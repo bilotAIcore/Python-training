@@ -1,4 +1,7 @@
-<img src="py-logo.png" width="200pt"/>
+<img src="https://www.bilot.fi/wp-content/uploads/2018/06/bilot-logo.png" class="center"/>
+<hr>
+
+<img src="py-logo.png" width="200pt" class="center"/>
 
 # Python for Data Science
 eli
