@@ -27,3 +27,11 @@ eli
 3. Visualisointi  
 4. Tilastollinen testaus  
 5. Edistynyt analytiikka
+
+## *Lisätietoa*
+Alla muutamia verkkosivuja, joista löytää lisää tietoa aiheesta. Vastaavia sivuja on tarjolla valtavasti. Lisäksi, "Cheatsheets" -kansiosta löytyy pdf-tuedostoja, joissa on koottuna Python käskyjä eri tarpeisiin.
+
+- https://www.pythoncheatsheet.org/  
+- https://realpython.com/tutorials/data-science/  
+- https://www.datacamp.com/courses/intro-to-python-for-data-science  
+- 
