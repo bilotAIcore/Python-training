@@ -17,6 +17,10 @@ eli
   Käsiteltävät asiat on käyty läpi yo. Jupyter Notebook (<code>.ipynb</code>) -tiedostoissa.
 </p>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png" width="100pt">
+
+Jupyter Notebook on selaimella käytettävä ohjelmointityökalu, jolla voi Pythonin lisäksi ohjelmoida useilla eri kielillä, kuten R:llä tai Julialla (vaatii tarvittavien kerneleiden asentamisen). Monista muista kehitysympäristöistä poiketen Jupyter Notebook mahdollistaa tekstin, kuvan ja koodin yhdistämisen, joka on mahdollista myös R-Notebook formaatissa. Notebookin sisältö (esim. raportti) on helppo jakaa muille esim. HTML-, PDF- tai Markdown-muodossa. IPYNB-formaatissa olevaa Notebookkia voi myös katsella sellasenaan versionhallinnan verkkosivulle, kuten GitHubissa.
+
 ## *Sisältö*
 <p>Tämä koulutus ei ole johdatus Python-ohjelmointiin yleensä, vaan siihen miten Pythonia 
   käytetään datan analysointiin ja mallintamiseen. Koulutuksen sisältö noudataa 
