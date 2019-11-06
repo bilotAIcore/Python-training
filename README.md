@@ -34,4 +34,3 @@ Alla muutamia verkkosivuja, joista löytää lisää tietoa aiheesta. Vastaavia 
 - https://www.pythoncheatsheet.org/  
 - https://realpython.com/tutorials/data-science/  
 - https://www.datacamp.com/courses/intro-to-python-for-data-science  
-- 
