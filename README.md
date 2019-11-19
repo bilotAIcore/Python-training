@@ -39,6 +39,7 @@ Jupyter Notebook on selaimella käytettävä ohjelmointityökalu, jolla voi Pyth
 3. Visualisointi  
 4. Tilastollinen testaus  
 5. Edistynyt analytiikka
+6. Neuroverkot
 
 ## *Lisätietoa*
 Alla muutamia verkkosivuja, joista löytää lisää tietoa aiheesta. Vastaavia sivuja on tarjolla valtavasti. Lisäksi, "Cheatsheets" -kansiosta löytyy pdf-tuedostoja, joissa on koottuna Python käskyjä eri tarpeisiin.
