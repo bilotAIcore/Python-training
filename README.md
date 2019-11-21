@@ -29,6 +29,34 @@ eli
 
 Jupyter Notebook on selaimella käytettävä ohjelmointityökalu, jolla voi Pythonin lisäksi ohjelmoida useilla eri kielillä, kuten R:llä tai Julialla (vaatii tarvittavien kerneleiden asentamisen). Monista muista kehitysympäristöistä poiketen Jupyter Notebook mahdollistaa tekstin, kuvan ja koodin yhdistämisen, joka on mahdollista myös R-Notebook formaatissa. Notebookin sisältö (esim. raportti) on helppo jakaa muille esim. HTML-, PDF- tai Markdown-muodossa. IPYNB-formaatissa olevaa Notebookkia voi myös katsella sellasenaan versionhallinnan verkkosivulle, kuten GitHubissa.
 
+## *Anacondan kanssa toimiminen*
+<p>Yleensä on järkevää luoda erillisiä Python virtuaaliympäristöjä, joissa hallinnoidaan kirjastoja toisistaan erillään. Näin voidaan varmistua siitä että asennetut kirjastot toimivat yksiin ja että versiot ovat oikeita. Uuden ympäristön luonti onnistuu Anacondalla seuraavasti (järjestelmön komentorivillä):</p>
+
+```bash
+conda create -n my_env
+```
+
+jossa `my_env` on luotavan ympäristön nimi. Jotta uutta ympäristöä voidaan käyttää Jupyter:issa, on ensin asennettava IPython kerneli:
+
+```bash
+pip install --user ipykernel
+```
+
+ja sen jälkeen voidaan lisätä uusi ympäristö Jupyter:iin:
+
+```bash
+python -m ipykernel install --user --name=my_env
+```
+
+Kun halutaan asentaa Python kirjastoja asentaa uuteen ympäristöön, pitää se ensin aktivoida:
+
+```bash
+conda activate my_env
+```
+
+Ja sen jälkeen uuden kirjaston asennus onnistuu joko `conda install` tai `pip install` kommennolla.
+
+
 ## *Sisältö*
 <p>Tämä koulutus ei ole johdatus Python-ohjelmointiin yleensä, vaan siihen miten Pythonia 
   käytetään datan analysointiin ja mallintamiseen. Koulutuksen sisältö noudataa 
