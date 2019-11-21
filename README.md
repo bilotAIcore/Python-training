@@ -47,6 +47,7 @@ ja sen jälkeen voidaan lisätä uusi ympäristö Jupyter:iin:
 ```bash
 python -m ipykernel install --user --name=my_env
 ```
+Tämän jälkeen uusi ympäristö on valittavissa Jupyter:issä *Kernel*-valikosta.
 
 Kun halutaan asentaa Python kirjastoja asentaa uuteen ympäristöön, pitää se ensin aktivoida:
 
