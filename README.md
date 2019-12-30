@@ -27,7 +27,7 @@ eli
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png" width="100pt">
 
-Jupyter Notebook on selaimella käytettävä ohjelmointityökalu, jolla voi Pythonin lisäksi ohjelmoida useilla eri kielillä, kuten R:llä tai Julialla (vaatii tarvittavien kerneleiden asentamisen). Monista muista kehitysympäristöistä poiketen Jupyter Notebook mahdollistaa tekstin, kuvan ja koodin yhdistämisen, joka on mahdollista myös R-Notebook formaatissa. Notebookin sisältö (esim. raportti) on helppo jakaa muille esim. HTML-, PDF- tai Markdown-muodossa. IPYNB-formaatissa olevaa Notebookkia voi myös katsella sellasenaan versionhallinnan verkkosivulle, kuten GitHubissa.
+Jupyter Notebook on selaimella käytettävä ohjelmointityökalu, jolla voi Pythonin lisäksi ohjelmoida useilla eri kielillä, kuten R:llä tai Julialla (vaatii tarvittavien kerneleiden asentamisen). Monista muista kehitysympäristöistä poiketen Jupyter Notebook mahdollistaa tekstin, kuvan ja koodin yhdistämisen, joka on mahdollista myös R-Notebook formaatissa. Notebookin sisältö (esim. raportti) on helppo jakaa muille esim. HTML-, PDF- tai Markdown-muodossa. IPYNB-formaatissa olevaa Notebookkia voi myös katsella sellaisenaan versionhallinnan verkkosivulle, kuten GitHubissa.
 
 ## *Anacondan kanssa toimiminen*
 <p>Yleensä on järkevää luoda erillisiä Python virtuaaliympäristöjä, joissa hallinnoidaan kirjastoja toisistaan erillään. Näin voidaan varmistua siitä että asennetut kirjastot toimivat yksiin ja että versiot ovat oikeita. Uuden ympäristön luonti onnistuu Anacondalla seuraavasti (järjestelmän komentorivillä):</p>
